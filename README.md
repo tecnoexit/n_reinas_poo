@@ -1,11 +1,2 @@
-# n_reinas_poo
-algoritmo n reinas programado en python con la consigna que sea orientado a objeto especificamente
-### Descripcion
-
-# Editor.md
-
-![](https://github.com/tecnoexit/n_reinas_poo/blob/main/4.jpeg)
-
-![](https://github.com/tecnoexit/n_reinas_poo/blob/main/8.png)
-
-![](https://github.com/tecnoexit/n_reinas_poo/blob/main/5.jpeg)
+# algoritmo_genetico_n_reinas
+algoritmo genetico, solucion N reinas con programacion orientada a objetos y patron de diseño
