@@ -5,3 +5,5 @@ algoritmo n reinas programado en python con la consigna que sea orientado a obje
 # Editor.md
 
 ![](https://github.com/tecnoexit/n_reinas_poo/blob/main/4.jpeg)
+
+![](https://github.com/tecnoexit/n_reinas_poo/blob/main/5.jpeg)
